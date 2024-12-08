@@ -1,3 +1,18 @@
+"""
+俄罗斯方块游戏
+作者：Mark
+最后更新：2023-12-08
+版本：1.0
+
+游戏说明：
+- 方向键控制方块移动
+- 空格键快速下落
+- P键暂停游戏
+- ESC退出游戏
+- Ctrl+S 保存游戏
+- Ctrl+L 加载游戏
+"""
+
 import pygame
 import random
 import sys
