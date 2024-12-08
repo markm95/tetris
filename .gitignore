@@ -5,3 +5,4 @@ highscore.json
 tetris_save.dat
 venv/
 .idea/
+*.swp
